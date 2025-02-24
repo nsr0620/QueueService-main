@@ -1,0 +1,5 @@
+com\example\InMemoryQueueTest$1.class
+com\example\InMemoryQueueTest.class
+com\example\InMemoryPriorityQueueTest.class
+com\example\FileQueueTest.class
+com\example\RedisPriorityQueueTest.class

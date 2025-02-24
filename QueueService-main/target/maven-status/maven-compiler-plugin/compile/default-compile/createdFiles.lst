@@ -1,0 +1,9 @@
+com\example\Message.class
+com\example\InMemoryQueueService.class
+com\example\FileQueueService.class
+com\example\SqsQueueService.class
+com\example\InMemoryPriorityQueue$PriorityMessage.class
+com\example\InMemoryPriorityQueue.class
+com\example\RedisPriorityQueueService.class
+com\example\QueueService.class
+com\example\RedisPriorityQueue.class
